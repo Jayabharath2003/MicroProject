@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "id": "14",
+      "stuName": "pupet",
+      "stuSalary": "23"
+    },
+    {
+      "id": "321",
+      "stuName": "jb",
+      "stuSalary": "24"
+    },
+    {
+      "id": "26",
+      "stuName": "jayabharath",
+      "stuSalary": "20"
+    }
+  ]
+}
